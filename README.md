@@ -1,2 +1,0 @@
-# FriendsRestart
-Created with CodeSandbox
